@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain-openai
+python-dotenv
+git commit -m "Agregando archivos iniciales: casita.py, requeriments"
